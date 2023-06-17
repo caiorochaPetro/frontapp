@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`correct rendering content 1`] = `
+<div
+  className="MuiBox-root css-0"
+>
+  <div
+    className="MuiGrid-root MuiGrid-container css-11lq3yg-MuiGrid-root"
+  >
+    <div
+      className="MuiGrid-root css-vj1n65-MuiGrid-root"
+    />
+  </div>
+</div>
+`;
